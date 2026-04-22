@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi 👋, I'm Dofoo</h1>
-<p>AIGC ARTIST · DIRECTOR · MENTOR</p>
+<p>AIGC ARTIST · DIRECTOR</p>
